@@ -1,7 +1,7 @@
-// GameCube "Taxi 3: The Game" French To English Translation
+// GameCube "Taxi 3: Das Spiel" French To English Translation
 
 endian msb // GameCube PPC requires Big-Endian Encoding (Most Significant Bit)
-output "../output/Taxi 3 [E].iso", create
+output "../output/Taxi 3 [D].iso", create
 origin $000000; insert "../input/Taxi 3 [F].iso" // Include French Taxi 3 ISO
 
 macro Text(OFFSET, TEXT) {
