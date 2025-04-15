@@ -74,7 +74,7 @@
 268=schwierigkeit
 269=done
 270=schwierigkeit gesperrt
-271=versuche übrig
+271=versuche noch
 272=unbegrenzte versuche
 
 

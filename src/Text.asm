@@ -1,6 +1,6 @@
-Text($0018A58C, "                    Loading.. Please wait")
-Text($0018F9A0, "                    Loading.. Please wait")
-Text($00191980, "                    Loading.. Please wait")
+Text($0018A58C, "                      Lade.. Bitte Warten")
+Text($0018F9A0, "                      Lade.. Bitte Warten")
+Text($00191980, "                      Lade.. Bitte Warten")
 Text($0018FB08, "Game over|")
 
 //SYSTEM TEXT
@@ -40,9 +40,9 @@ Text($0018C514, "DELETE SUCCESSFUL|")
 Text($0018C528, "ACCESSING TAXI 3 DATA FILE\nON THE NINTENDO GAMECUBE MEMORY CARD IN SLOT #.\nDO NOT TOUCH THE MEMORY CARD\nOR THE POWER BUTTON.|")
 Text($0018C5E4, "ARE YOU SURE YOU WANT TO EXIT\nTAXI 3 AND MANAGE YOUR NINTENDO GAMECUBE MEMORY CARD ?\n\nUNSAVED DATA WILL BE LOST.|")
 
-Text($001D0F38, "YES")
-Text($001D0F3C, "NO|")
-Text($001D0F40, "CANCEL|")
+Text($001D0F38, "JA")
+Text($001D0F3C, "NEIN|")
+Text($001D0F40, "ABBRUCH|")
 
-Text($0018F884, "TRY AGAIN")
+Text($0018F884, "ERNEUT VERSUCHEN")
 Text($0018F890, "FORMAT")
