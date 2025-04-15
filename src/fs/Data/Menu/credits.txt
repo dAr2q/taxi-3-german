@@ -1,6 +1,6 @@
-~LUC BESSON presents
+~LUC BESSON präsentiert
 
-a production by
+eine produktion von
 ~EUROPA CORP - ARP
 
 SAMY NACERI - FREDERIC DIEFENTHAL -
@@ -9,20 +9,20 @@ BERNARD FARCY
 ----------
 ~TAXI 3 
 
-~featuring
+~mit
 GERARD KRAWCZYK
 
 MARION COTILLARD - EMMA SJÖBERG -
 BAI LING - EDOUARD MONTOUTE
 
-~Script
-de LUC BESSON
+~Skript
+von LUC BESSON
 
 ----------
-~Music
+~Musik
 DJ KORE et DJ SCALP
 
-~Photography
+~Fotograpie
 GERARD STERIN
 
 ~Design
@@ -32,13 +32,13 @@ JACQUES BUFNOIR
 ~Sound
 VINCENT TULLI
 
-~Costumes
+~Kostüme
 AGNES FALQUE
 
-~Mixage
+~Mixing
 DIDIER LOZHAÏC
 
-~Video editing
+~Videobearbeitung
 YANN HERVE
 
 ----------

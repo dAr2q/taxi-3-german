@@ -1,4 +1,4 @@
-# Taxi 3: The Game
+# Taxi 3: Das Spiel (WIP Übersetung auf Deutsch)
 - File: `Taxi 3 [F].iso`
 - Hash: `FC104322DA45EE740B331EDE2E410E13E78B5D75`
 
@@ -19,9 +19,12 @@ Qiu is captured by the Santa Claus Gang and is taken to the Alps, where she is r
 ## Patching
 #### xdelta patch (Recommended)
 - Download [Delta Patcher](https://www.romhacking.net/utilities/704/)
-- Grab the [latest release](https://github.com/DOL-Translations/taxi-3/releases/latest/)
+- Grab the [latest release](https://github.com/dar2q/taxi-3-german/releases/latest/)
 - Open Delta Patcher and add the translation xdelta patch and the required language iso.
 #### manual patch (Latest changes, Windows only)
 - Drop the required language iso (non-nkit compressed) into the `input` folder.
     - Make sure it is named properly! Refer to the header of the readme for more info.
 - Run `compile.bat` in the `tools` folder.
+
+#### Credits ####
+based on the English Translation from [DOL-Translations](https://github.com/DOL-Translations/taxi-3/)

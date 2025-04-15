@@ -1,5 +1,5 @@
 [Desc_TAXI]
-0=A dose of pure adrenaline, without damage constraints. Fight your way through traffic in a race against the clock!
+0=Eine dosis puren adrenalines, ohne schaden. Kämpfe dich durch den verkehr gegen die Uhr!
 
 [Desc_0]
 0=DESCRIPTION : The famous secret agent needs a ride in your taxi: he urgently needs to get to the airport. Taken abruptly from your meal, your anger begins to simmer. But a large wad of cash quickly brings you back to your senses.: get ready for the race of a lifetime!
@@ -7,8 +7,8 @@
 
 
 [Desc_1]
-0=DESCRIPTION : You offer to take Lilly to the doctor and her father, the general, to the police station. Upon learning that Lilly was pregnant, you decide to drive very carefully in order to avoid harming the baby.
-1=OBJECTIVES :|- Take pregnant Lily to the hospital as carefully as possible.|- Avoid violent shocks as much as possible.
+0=DESCRIPTION : Du hast angeboten Lily zum Arzt und ihren Vater, den General, zum Polizeipräsidium zu fahren. Nachdem du weißt das Lily schwanger ist, entscheidest du dich vorsichtig zu fahren um das baby nicht zu gefährden.
+1=OBJECTIVES :|- Bringe die schwangere Lily zum Arzt so vorsichtig wie es möglich ist.|- Verhindere soviele gefähliche Stöße wie möglich.
 
 
 [Desc_2]
