@@ -73,7 +73,7 @@
 267=mission
 268=schwierigkeit
 269=done
-270=schwierigkeit gesperrt
+270=gesperrt
 271=versuche noch
 272=unbegrenzte versuche
 
