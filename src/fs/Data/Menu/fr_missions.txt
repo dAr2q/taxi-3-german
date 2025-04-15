@@ -1,8 +1,8 @@
 [Desc_TAXI]
-0=Eine Dosis des puren Adrenalines, ohne Schaden. Kämpfe dich durch den Verkehr gegen die Uhr!
+0=Eine Dosis des puren Adrenalines, ohne Schaden. Kämpfe dich durch den Verkehr, im Rennen gegen die Uhr!
 
 [Desc_0]
-0=BESCHREIBUNG : Ein weltbekannter Geheimagent braucht eine Fahrt mit deinem Taxi: Er muss dringend zum Flughafen. Vom Essen gestört, wirst du leicht wütend. Aber ein großes Bündel Geld macht dich dennoch wieder froh.: mach dich bereit für das Rennen deines Lebens!
+0=BESCHREIBUNG : Ein weltbekannter Geheimagent braucht eine Fahrt mit deinem Taxi: Er muss dringend zum Flughafen. Vom Essen gestört, wirst du leicht wütend. Aber ein großer Haufen Geld macht dich dennoch wieder froh.: Mach dich bereit für das Rennen deines Lebens!
 1=ZIELE :|- Bring den Geheimagent in der angegebenen Zeit zum Flughafen, indem du durch die Checkpoints rennst.|- Sei vor dem Zug am Checkpoint.
 
 [Desc_1]
@@ -15,11 +15,11 @@
 
 [Desc_3]
 0=BESCHREIBUNG : Du triffst Emilien bei der Polizei und beschließt ihn Heim zufahren. Auf dem Weg, entdeckt er aber : einen Weihnachtsmann auf einem Roller ! Folge ihm um herrauszufinden wer er ist...
-1=ZIELE :|- Folge dem Weihnachtsmann Roller ohne gesehen zu werden um den Treffpunkt der Weihnachtsmann-Bande zu finden.|- Pass below an accident.
+1=ZIELE :|- Folge dem Weihnachtsmann Roller ohne gesehen zu werden, um den Treffpunkt der Weihnachtsmann-Bande zu finden.|- Fahre unter dem Unfall hindurch.
 
 [Desc_4]
-0=BESCHREIBUNG : Emilien got caught trying to infiltrate the HQ of the Santa Claus Gang. Qiu and her henchmen abduct him and choose to dispose of him in a remote location. Without hesitation, you pursue them to save your friend.
-1=ZIELE :|- Folge Qiu zum Warenhaus ohne gesehen zu werden um herrauszufinden wo sie Emilien gefangen halten.
+0=BESCHREIBUNG : Emilien wurde beim Versuch das HQ zu infiltrieren von der Weihnachtsmann-Bande erwischtg. Qiu und ihre Handlanger haben ihn entführt und haben ihn an einem Fremden Ort hinterlassen. Ohne nachzudenken, machst du dich auf dem Weg deinen Freund zu retten.
+1=ZIELE :|- Folge Qiu zum Warenhaus ohne gesehen zu werden, um herrauszufinden wo sie Emilien gefangen halten.
 
 [Desc_5]
 0=BESCHREIBUNG : Die Gang-Mitglieder sind in die Berge abgehauen. Keine Zeit zu Verschwenden : renne zum Dorf durch die Autobahn bevor die Diebe abhauen!
@@ -39,4 +39,4 @@
 
 [Desc_9]
 0=BESCHREIBUNG : After solving the problem, Emilien receives a phone call : Petra is pregnant and will give birth at any moment ! He needs the fastest transportation back to Marseille. You accept the task and remind him to buckle up : you drive fast !!!
-1=ZIELE :|- Arrive in time for Petra's delivery.
+1=ZIELE :|- Erscheine rechtzeitig zu Petra's Lieferung.

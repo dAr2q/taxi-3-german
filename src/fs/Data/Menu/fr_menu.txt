@@ -1,50 +1,50 @@
 [STRINGS]
 ; page main
-0=story modus
-1=taxi modus
-2=laden
-3=speichern
-4=optionen
-5=abspann
+0=Story-Modus
+1=Taxi-Modus
+2=Laden
+3=Speichern
+4=Optionen
+5=Abspann
 
 ; page settings
-20=video
-21=audio
-22=steuerung
+20=Video
+21=Audio
+22=Steuerung
 
 
 ; page choosemission
 135=Schwierigkeit
-136=einfach
-137=mittel
-138=schwer
+136=Einfach
+137=Mittel
+138=Schwer
 139=MISSION
-140=Wähle mission
+140=Auswahl
 141=Mein Name ist B, JB
 142=Baby Boom
 143=Sir, ja sir!
-144=Santa Claus
+144=Weihnachtsmann
 145=Die Jagd nach Qiu
 146=Vive la montagne
 147=Die Rally
 148=Rat Rack Time
-149=Finaler slalom
+149=Finaler Slalom
 150=Baby Boom 2
 
 ; page settings control
 
-200=einstellungen
-202=type 1
-203=type 2
-204=lenkrad und pedale
-205=type 1 (Rumble)
-206=type 2 (Rumble)
-207=lenkrad und pedale (Rumble)
-208=nein
+200=Einstellungen
+202=Typ 1
+203=Typ 2
+204=Lenkrad und Pedale
+205=Typ 1 (Rumble)
+206=Typ 2 (Rumble)
+207=Lenkrad und Pedale (Rumble)
+208=Nein
 209=Rumble
 211=Beschleunigen
 212=Bremse
-213=Rückspiegel
+213=Rueckspiegel
 214=Kamera
 215=Handbremse
 216=START/PAUSE
@@ -53,57 +53,57 @@
 219=Turbo
 
 ; PAGE SETTINGS VIDEO
-220=bild anpassung
-221=mehr
-222=bewegungsunschärfe
-223=zeitlupe
+220=Bildjustierung
+221=Mehr
+222=Bewegungsunschärfe
+223=Zeitlupe
 
 ; PAGE SETTINGS AUDIO
 240=SFX
 241=BGM
-245=audio
-246=mono
-247=stereo
+245=Sound
+246=Mono
+247=Stereo
 
 ; PAGE PROFILE
 262=Spieler 1
 263=Spieler 2
 264=Spieler 3
 266=Gib deinen Namen ein
-267=mission
-268=schwierigkeit
-269=done
-270=gesperrt
-271=versuche noch
-272=unbegrenzte versuche
+267=Mission
+268=Schwierigkeit
+269=Fertig
+270=Gesperrt
+271=Versuche noch
+272=Unbegrenzte versuche
 
 
 ;Page results
 400=Gewonnen
-401=Neues kit verfügbar :
-402=stoßdämpfer
+401=Neues Kit verfügbar :
+402=Stoßdaempfer
 403=booster type p45 : 250 km/h
 404=front und heck spoiler
-405=air vents
+405=Lufteinlaesse
 406=booster type p51 : 300 km/h
-407=schnee/eis reifen
+407=Schnee/Eis Reifen
 408=caterpillar tracks
 409=studded snow tires
 410=booster type p90 : 350 km/h
-411=neuer taxi modus level freigeschaltet
-412=glückwunsch! du hast die story auf hard beendet
+411=Neuer Taxi-Modus Level freigeschaltet
+412=Glueckwunsch! Du hast die story auf hard beendet
 413=unlocked hard scenerio mode
-414=neuer rekord
+414=Neuer Rekord
 415=du hast neue versuche gesammelt
 
 
 ; STANDARD
 900=ja
 901=nein
-902=OK
-903=zurück
+902=ok
+903=zurueck
 904=bearbeiten
-905=löschen
+905=loeschen
 906=ok
 907=einfügen
 
@@ -111,13 +111,13 @@
 ; ingame menus
 1000=weiter
 1001=neustart
-1002=menu
+1002=menue
 1003=beenden
 1004=nächste mission
 1005=mission beenden
 
 ; confirmations
-1200=Are you sure you want ||to restart this race ?
-1201=Are you sure you want ||to return to the menu ?
-1203=Spielerdaten löschen?
-1204=|nächste mission :|| Button         
+1200=Bist du sicher ||das Rennen neustarten ?
+1201=Bist du sicher ||zum Menue zurückkehren ?
+1203=Spielerdaten loeschen?
+1204=|naechste mission :|| Button         

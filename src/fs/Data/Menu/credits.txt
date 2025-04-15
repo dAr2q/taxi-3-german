@@ -20,9 +20,9 @@ von LUC BESSON
 
 ----------
 ~Musik
-DJ KORE et DJ SCALP
+DJ KORE und DJ SCALP
 
-~Fotograpie
+~Fotographie
 GERARD STERIN
 
 ~Design
@@ -43,20 +43,20 @@ YANN HERVE
 
 ----------
 
-~Production director
+~Produktionsleitung
 DIDIER HOARAU
 
-~Executive producer
+~Ausführender Produzent
 BERNARD GRENET
 
-~Coproducers
-MICHELE et LAURENT PETIN
+~Coproduzent
+MICHELE und LAURENT PETIN
 
-~Producer
+~Produzent
 LUC BESSON
 ----------
 
-~A production by
+~Eine Produktion von
 EUROPACORP - ARP
 ~in co-production with
 TF1 FILMS
@@ -236,3 +236,7 @@ Alexandre Takacs
 Laurent Pétin, President d'ARP Sélection
 Nathalie Thomas-Ito, Europa
 
+----------
+
+English Translation by NewGBAXL
+German Translation by dAr2q
