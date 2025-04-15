@@ -59,7 +59,7 @@ macro ReplaceAsset(ORIGIN, FILE, SIZE) {
 }
 
 //Region
-Text($3, "P")
+Text($3, "D")
 
 include "Banner.asm"
 include "Menu.asm"
