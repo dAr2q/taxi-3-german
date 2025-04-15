@@ -1,20 +1,17 @@
 [Desc_TAXI]
-0=Eine Dosis des puren adrenalines, ohne Schaden. Kämpfe dich durch den Verkehr gegen die Uhr!
+0=Eine Dosis des puren Adrenalines, ohne Schaden. Kämpfe dich durch den Verkehr gegen die Uhr!
 
 [Desc_0]
-0=BESCHREIBUNG : Der berühmte Geheimagent braucht eine Fahrt mit deinem Taxi: Er muss dringend zum Flughafen. Gestört vom Essen, wirst du leicht wütend. Aber ein großes Bündel Geld macht dich wieder froh.: mach dich bereit für das rennen deines lebens!
-1=ZIELE :|- Bring den Geheimagent in der angegebenen Zeit zum Flughafen , indem du durch die zwingenden checkpoints fährst.|- Sei vor dem Zug am Checkpoint.
-
+0=BESCHREIBUNG : Ein weltbekannter Geheimagent braucht eine Fahrt mit deinem Taxi: Er muss dringend zum Flughafen. Vom Essen gestört, wirst du leicht wütend. Aber ein großes Bündel Geld macht dich dennoch wieder froh.: mach dich bereit für das Rennen deines Lebens!
+1=ZIELE :|- Bring den Geheimagent in der angegebenen Zeit zum Flughafen, indem du durch die Checkpoints rennst.|- Sei vor dem Zug am Checkpoint.
 
 [Desc_1]
 0=BESCHREIBUNG : Du hast angeboten Lily zum Arzt und ihren Vater, den General, zur Polizei-Dienststelle zu fahren. Nachdem du herrausgefunden hast das Lily schwanger ist, entscheidest du dich vorsichtig zu fahren um das Baby nicht zu gefährden.
 1=ZIELE :|- Bringe die schwangere Lily so vorsichtig zum Arzt wie es möglich ist.|- Verhindere soviele gefähliche Stöße wie möglich.
 
-
 [Desc_2]
 0=BESCHREIBUNG : Deine Zaghaftigkeit hat den Zeitplan des Generals nach hinten geschoben, und du musst jetzt Zeit gutmachen. :| Gib Vollgas !
 1=ZIELE :|- Eskortiere den General schnellstmöglich zur Polizei-Dienststelle.|- Werde geblitzt mit mehr als 245 km/h.
-
 
 [Desc_3]
 0=BESCHREIBUNG : Du triffst Emilien bei der Polizei und beschließt ihn Heim zufahren. Auf dem Weg, entdeckt er aber : einen Weihnachtsmann auf einem Roller ! Folge ihm um herrauszufinden wer er ist...
