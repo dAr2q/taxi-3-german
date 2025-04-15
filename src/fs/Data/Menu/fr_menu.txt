@@ -80,7 +80,7 @@
 
 ;Page results
 400=Gewonnen
-401=new kit available :
+401=Neues kit verfügbar :
 402=stoßdämpfer
 403=booster type p45 : 250 km/h
 404=front und heck spoiler
@@ -101,7 +101,7 @@
 900=ja
 901=nein
 902=OK
-903=return
+903=zurück
 904=bearbeiten
 905=löschen
 906=ok
