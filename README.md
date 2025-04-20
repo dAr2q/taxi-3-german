@@ -28,4 +28,4 @@ Qiu is captured by the Santa Claus Gang and is taken to the Alps, where she is r
 
 #### Credits ####
 - based on the English Translation from [NewGBAXL](https://github.com/DOL-Translations/taxi-3/)
-- Font used for Graphics [Sofachrome Rg Italic](https://www.dafont.com/sofachrome.font)
+- Font used for Graphics [Sofachrome Rg Italic](https://www.dafont.com/sofachrome.font) and [Base 05 Regular](https://www.dafont.com/base-05.font)

@@ -22,10 +22,10 @@
 140=Auswahl
 141=Mein Name ist B, JB
 142=Baby Boom
-143=Sir, ja sir!
+143=Sir, ja Sir!
 144=Weihnachtsmann
-145=Die Jagd nach Qiu
-146=Vive la montagne
+145=Jagd auf Qiu
+146=Es lebe der Berg
 147=Die Rally
 148=Rat Rack Time
 149=Finaler Slalom
@@ -55,12 +55,12 @@
 ; PAGE SETTINGS VIDEO
 220=Bildjustierung
 221=Mehr
-222=Bewegungsunschärfe
+222=Bewegungsunschaerfe
 223=Zeitlupe
 
 ; PAGE SETTINGS AUDIO
-240=SFX
-241=BGM
+240=Effekte
+241=Musik
 245=Sound
 246=Mono
 247=Stereo
@@ -74,27 +74,27 @@
 268=Schwierigkeit
 269=Fertig
 270=Gesperrt
-271=Versuche noch
+271=Versuche
 272=Unbegrenzte versuche
 
 
 ;Page results
 400=Gewonnen
-401=Neues Kit verfügbar :
-402=Stoßdaempfer
-403=booster type p45 : 250 km/h
-404=front und heck spoiler
+401=Neues Kit verfuegbar :
+402=Stossdaempfer
+403=Booster Typ P45 : 250 km/h
+404=Front und Heckspoiler
 405=Lufteinlaesse
-406=booster type p51 : 300 km/h
+406=Booster Typ P51 : 300 km/h
 407=Schnee/Eis Reifen
-408=caterpillar tracks
-409=studded snow tires
-410=booster type p90 : 350 km/h
+408=Kettenreifen
+409=Spikereifen
+410=Booster Typ P90 : 350 km/h
 411=Neuer Taxi-Modus Level freigeschaltet
-412=Glueckwunsch! Du hast die story auf hard beendet
-413=unlocked hard scenerio mode
+412=Glueckwunsch! Du hast die Story auf Schwer beendet
+413=Schwere Schwierigkeit freigeschaltet
 414=Neuer Rekord
-415=du hast neue versuche gesammelt
+415=Neue Versuche gewonnen
 
 
 ; STANDARD
@@ -105,7 +105,7 @@
 904=bearbeiten
 905=loeschen
 906=ok
-907=einfügen
+907=einfuegen
 
 
 ; ingame menus
@@ -113,11 +113,11 @@
 1001=neustart
 1002=menue
 1003=beenden
-1004=nächste mission
+1004=naechste mission
 1005=mission beenden
 
 ; confirmations
 1200=Bist du sicher ||das Rennen neustarten ?
-1201=Bist du sicher ||zum Menue zurückkehren ?
+1201=Bist du sicher ||zum Menue zurueckkehren ?
 1203=Spielerdaten loeschen?
 1204=|naechste mission :|| Button         

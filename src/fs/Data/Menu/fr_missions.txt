@@ -1,42 +1,42 @@
 [Desc_TAXI]
-0=Eine Dosis des puren Adrenalines, ohne Schaden. Kämpfe dich durch den Verkehr, im Rennen gegen die Uhr!
+0=Eine Dosis des puren Adrenalines, ohne Schaden. Kaempfe dich durch den Verkehr, im Rennen gegen die Uhr!
 
 [Desc_0]
-0=BESCHREIBUNG : Ein weltbekannter Geheimagent braucht eine Fahrt mit deinem Taxi: Er muss dringend zum Flughafen. Vom Essen gestört, wirst du leicht wütend. Aber ein großer Haufen Geld macht dich dennoch wieder froh.: Mach dich bereit für das Rennen deines Lebens!
+0=BESCHREIBUNG : Ein weltbekannter Geheimagent braucht eine Fahrt mit deinem Taxi: Er muss dringend zum Flughafen. Vom Essen gestoert, bist du genervt. Aber ein grosser Haufen Geld macht dich dennoch wieder froh.: Mach dich bereit für das Rennen deines Lebens!
 1=ZIELE :|- Bring den Geheimagent in der angegebenen Zeit zum Flughafen, indem du durch die Checkpoints rennst.|- Sei vor dem Zug am Checkpoint.
 
 [Desc_1]
 0=BESCHREIBUNG : Du hast angeboten Lily zum Arzt und ihren Vater, den General, zur Polizei-Dienststelle zu fahren. Nachdem du herrausgefunden hast das Lily schwanger ist, entscheidest du dich vorsichtig zu fahren um das Baby nicht zu gefährden.
-1=ZIELE :|- Bringe die schwangere Lily so vorsichtig zum Arzt wie es möglich ist.|- Verhindere soviele gefähliche Stöße wie möglich.
+1=ZIELE :|- Bringe die schwangere Lily so vorsichtig zum Arzt wie es moeglich ist.|- Verhindere soviele gefähliche Stoeße wie moeglich.
 
 [Desc_2]
 0=BESCHREIBUNG : Deine Zaghaftigkeit hat den Zeitplan des Generals nach hinten geschoben, und du musst jetzt Zeit gutmachen. :| Gib Vollgas !
-1=ZIELE :|- Eskortiere den General schnellstmöglich zur Polizei-Dienststelle.|- Werde geblitzt mit mehr als 245 km/h.
+1=ZIELE :|- Eskortiere den General schnellstmoeglich zur Polizei-Dienststelle.|- Werde geblitzt mit mehr als 245 km/h.
 
 [Desc_3]
-0=BESCHREIBUNG : Du triffst Emilien bei der Polizei und beschließt ihn Heim zufahren. Auf dem Weg, entdeckt er aber : einen Weihnachtsmann auf einem Roller ! Folge ihm um herrauszufinden wer er ist...
-1=ZIELE :|- Folge dem Weihnachtsmann Roller ohne gesehen zu werden, um den Treffpunkt der Weihnachtsmann-Bande zu finden.|- Fahre unter dem Unfall hindurch.
+0=BESCHREIBUNG : Du triffst Emilien bei der Polizei und beschließt ihn Heim zufahren. Auf dem Weg, aber entdeckt er : einen Weihnachtsmann auf einem Roller ! Folge ihm um herrauszufinden wohin er will...
+1=ZIELE :|- Folge dem Weihnachtsmann Roller ohne gesehen zu werden, um den Treffpunkt der Weihnachtsmann-Bande zu finden.|- Springe ueber den Unfall.
 
 [Desc_4]
-0=BESCHREIBUNG : Emilien wurde beim Versuch das HQ zu infiltrieren von der Weihnachtsmann-Bande erwischtg. Qiu und ihre Handlanger haben ihn entführt und haben ihn an einem Fremden Ort hinterlassen. Ohne nachzudenken, machst du dich auf dem Weg deinen Freund zu retten.
-1=ZIELE :|- Folge Qiu zum Warenhaus ohne gesehen zu werden, um herrauszufinden wo sie Emilien gefangen halten.
+0=BESCHREIBUNG : Emilien wurde beim Versuch das HQ zu infiltrieren von der Weihnachtsmann-Bande erwischt. Qiu und ihre Handlanger haben ihn entführt und ihn an einem Geheimen Ort hinterlassen. Ohne nachzudenken, machst du dich auf dem Weg Emilien zu retten.
+1=ZIELE :|- Folge Qiu zum Warenhaus ohne gesehen zu werden,  um herrauszufinden wo sie Emilien gefangen halten.
 
 [Desc_5]
 0=BESCHREIBUNG : Die Gang-Mitglieder sind in die Berge abgehauen. Keine Zeit zu Verschwenden : renne zum Dorf durch die Autobahn bevor die Diebe abhauen!
-1=ZIELE :|- Erreichte die Abfahrt zu den Alpen so schnell wie möglich.|- Vernichte das Radargerät indem du den Rekord von 295 km/h brichst.
+1=ZIELE :|- Erreichte die Abfahrt zu den Alpen so schnell wie moeglich.|- Vernichte das Radargeraet indem du den Rekord von 295 km/h brichst.
 
 [Desc_6]
-0=BESCHREIBUNG : Im Dorf angekommen, findest du dich ein der Mitte eines Rallye Rennen. You'll have to play tight and smash the times of the fiercest competitors.
+0=BESCHREIBUNG : Im Dorf angekommen, findest du dich in der Mitte eines Rallye-Rennens. Du musst straff fahren und die Zeiten der Konkurrenten unterbieten.
 1=ZIELE :|- Verliere den 4x4 nicht aus den Augen.
 
 [Desc_7]
-0=BESCHREIBUNG : The thugs have traded in their 4x4 for a snowplow. You will finally be able to test your new modification : the mountain tracks ! Follow the tracks of the snowplow and be careful with your taxi !
-1=ZIELE :|- Follow the Rat Rack to discover the hideout of the Santa Claus gang.|- Avoid the snowfall.
+0=BESCHREIBUNG : Die Gangster haben ihren Gelaendewagen gegen einen Schneepflug getauscht. Endlich kannst du deine neue Modifikation testen : the mountain tracks ! Folge den Spuren des Schneepflugs und sei vorsichtig mit deinem Taxi !
+1=ZIELE :|- Folge dem Rat Rack, um das Versteck der Weihnachtsmann-Bande zu finden.|- Entgehe dem Schneefall.
 
 [Desc_8]
-0=BESCHREIBUNG : The criminals spotted you and quickly put on their skis. They speed away, hurling down the slopes at full speed. However, you won't let them get away that easily. With the help of your new studded snow tires, you'll be able chase after them in this final pursuit.
+0=BESCHREIBUNG : Die Verbrecher haben dich entdeckt und schnallen sich schnell ihre Skier an. Mit Vollgas rasen sie die Haenge hinunter. Doch so leicht laesst du sie nicht entkommen. Mit deinen neuen Spikereifen kannst du sie in dieser letzten Verfolgungsjagd verfolgen.
 1=ZIELE :|- Fahre den Riesen-Slalom innerhalb des Zeitlimits herunter.
 
 [Desc_9]
-0=BESCHREIBUNG : After solving the problem, Emilien receives a phone call : Petra is pregnant and will give birth at any moment ! He needs the fastest transportation back to Marseille. You accept the task and remind him to buckle up : you drive fast !!!
-1=ZIELE :|- Erscheine rechtzeitig zu Petra's Lieferung.
+0=BESCHREIBUNG : Nachdem das Problem geloest ist, erhaelt Emilien einen Anruf: Petra ist schwanger und steht kurz vor der Geburt! Er braucht den schnellsten Transport zurueck nach Marseille. Du nimmst den Auftrag an und erinnerst ihn daran, sich anzuschnallen: Du faehrst schnell. !!!
+1=ZIELE :|- Erscheine rechtzeitig zu Petra's Entbindung.
